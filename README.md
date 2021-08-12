@@ -4,3 +4,5 @@
 
 * [安裝 TypeScript 以及 Hello World](./helloTS)
 * [型別推論 (Type Inference) 和註記 (Annotation)](./TypeInferenceAndAnnotation)
+* [物件型別 - Object Types Basics](./03.Object%20Types%20Basics/)
+
